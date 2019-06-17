@@ -1,0 +1,12 @@
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\bin\Debug\FindMyBed.exe.config
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\bin\Debug\FindMyBed.exe
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\bin\Debug\FindMyBed.pdb
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\obj\Debug\MyDreamVilla.csprojAssemblyReference.cache
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\obj\Debug\FindMyBed.FrmFindMyBed.resources
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\obj\Debug\FindMyBed.Properties.Resources.resources
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\obj\Debug\MyDreamVilla.csproj.GenerateResource.cache
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\obj\Debug\MyDreamVilla.csproj.CoreCompileInputs.cache
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\obj\Debug\FindMyBed.exe
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\obj\Debug\FindMyBed.pdb
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\obj\Debug\FindMyBed.RezervasyonForm.resources
+C:\Users\onurk\source\repos\FindMyBed\FindMyBed\obj\Debug\FindMyBed.MisafirAraForm.resources
